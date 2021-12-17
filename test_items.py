@@ -6,12 +6,9 @@ from selenium import webdriver
 
 class TestItems:
 
-
-
     def test_items(self, browser):
 
         link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
-
         browser.get(link)
 
         # test flow
