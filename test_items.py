@@ -1,8 +1,4 @@
 import time
-import math
-import pytest
-from selenium import webdriver
-
 
 class TestItems:
 
